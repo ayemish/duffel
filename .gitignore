@@ -22,11 +22,8 @@ dist/
 *.log
 
 # Environment variables
-.env
-.env.*
 
 # IDEs
-.vscode/
 .idea/
 
 # OS files
@@ -52,3 +49,5 @@ htmlcov/
 
 # Jupyter
 .ipynb_checkpoints/
+config.bat
+node_modules
