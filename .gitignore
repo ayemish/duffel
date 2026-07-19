@@ -1,0 +1,54 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled Python files
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# PyInstaller
+*.spec
+
+# Jupyter
+.ipynb_checkpoints/
